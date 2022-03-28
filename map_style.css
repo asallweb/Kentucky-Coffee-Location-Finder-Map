@@ -1,4 +1,6 @@
 @import url('brown_bold.ttf');
+@import url('biorhyme_regular.otf');
+@import url('biorhyme_bold.otf');
 
 
 #panel_search_results{
@@ -24,6 +26,7 @@
 	color: #fff; 
 	margin: 0; 
 	max-width: 250px; 
+	text-transform: uppercase;
 }
 
 #finder br{display: none;}
