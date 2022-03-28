@@ -1,6 +1,5 @@
 @import url('brown_bold.ttf');
-@import url('biorhyme_regular.otf');
-@import url('biorhyme_bold.otf');
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@400;700&display=swap');
 
 
 #panel_search_results{
@@ -17,7 +16,6 @@
 	padding: 20px 40px;
 }
 #finder{
-	font-family: Brown; 
 	font-size: 16px; 
 	font-weight: 700; 
 	text-align: left; 
@@ -48,7 +46,6 @@ fieldset{border: none; padding: 0; border-radius: 0; margin: 0;}
 #finder_table thead, #finder_table .finder_miles, #finder_table tfoot tr{background:transparent;}
 #finder_table thead, #finder_table .finder_miles{
 	color: #89ab9d;
-	font-family: Brown;
 	font-weight: bold;
 	font-size: 14px;
 	letter-spacing: 0.02em;
@@ -75,7 +72,6 @@ fieldset{border: none; padding: 0; border-radius: 0; margin: 0;}
 	width: 80%; 
 	order:0; 
 	color: #fff; 
-	font-family: Brown;
 	font-weight: bold;
 	font-size: 14px;
 	letter-spacing: 0.02em;
