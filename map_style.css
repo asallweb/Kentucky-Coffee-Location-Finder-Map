@@ -1,6 +1,11 @@
 @import url('fonts/brown_bold.ttf');
 @import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@400;700&display=swap');
 
+
+
+#content{
+	background:url('https://asallweb.github.io/Kentucky-Coffee-Location-Finder-Map/bg_map.jpg') 0 0 no-repeat;
+}
 #panel_search_results{
 	position: absolute;
 	left: 0;
